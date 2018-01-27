@@ -1,0 +1,3 @@
+raspberrypi/certs/certificate.pem.crt
+raspberrypi/certs/private.pem.key
+raspberrypi/certs/public.pem.key
